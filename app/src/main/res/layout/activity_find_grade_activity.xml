@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/classroom"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.zcjse.yourgrade.Find_grade_activity">
+
+    <TextView
+        android:id="@+id/nametext"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        android:background="#90FFFFFF"
+        android:gravity="center"
+        android:padding="16dp"
+        android:layout_margin="8dp"
+        android:text=""
+        android:textColor="@android:color/black"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/scoretext"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="8dp"
+        android:layout_weight="4"
+        android:background="#90FFFFFF"
+        android:gravity="center"
+        android:textSize="240dp"
+        android:textColor="@android:color/black"
+        android:text=""
+        android:textStyle="bold" />
+</LinearLayout>

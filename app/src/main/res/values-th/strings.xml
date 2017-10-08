@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">\"Your Grade \"</string>
+    <string name="Exit_Button">ออก</string>
+    <string name="Find_Grade_Button">คำนวณเกรด</string>
+    <string name="Info">ป้อนชื่อและคะแนนของคุณ</string>
+    <string name="Name_tab">ชื่อ</string>
+    <string name="Score_tab">คะแนน</string>
+    <string name="Post">คุณได้เกรดอะไร?</string>
+</resources>

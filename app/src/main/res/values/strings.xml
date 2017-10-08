@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"Your Grade "</string>
+    <string name="Post">"What's Your Grade "</string>
+    <string name="Info">"Enter your name and score "</string>
+    <string name="Name_tab">"Name "</string>
+    <string name="Score_tab">"Score "</string>
+    <string name="Find_Grade_Button">"Find Grade "</string>
+    <string name="Exit_Button">"Exit "</string>
+</resources>
